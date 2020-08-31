@@ -19,11 +19,9 @@ print("Hello World")
 <br/>
 
 <strong>Output Integer, Float</strong>
-<br/>
 ```python
 print(10)
 ```
-<br/>
 
 <strong>Check data type and Output</strong>
 <br/>
@@ -45,12 +43,11 @@ print(type(1))
 ```python
 input = eval(input("Integer"))
 ```
----
 <br/>
 <strong>Way 2 -- int()</strong>
+<br/>
 ```python
-input = input("Integer")
-convert_int = int(input)
+input = eval(input("Integer"))
 ```
 
 ## Practice question from Introduction to Programming Using Python
