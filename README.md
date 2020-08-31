@@ -1,52 +1,47 @@
 ## Review
-#### Bulid in Data Type (Python)
+#### 內置數據類型 (Python)
 1. Text Type (str) <code>e.g. "Hello", 'a'</code>
 2. Numeric Type (int, float, complex) <code>e.g. 1, 1.2, 0.008</code>
 3. Boolean Type (bool) <code>True, False</code>
-##### Still not discuss 
+##### 內置數據類型--尚未講
 4. Sequence Type 
 5. Mapping
 6. Set 
 7. Binary 
 
-#### How to output data on screen
+#### 如何輸出東西至顯示屏
 
-<strong>Output string</strong>
-<br/>
+<strong>輸出文字</strong>
 ```python
-print("Hello World")
+print("你好")
 ```
-<br/>
-
-<strong>Output Integer, Float</strong>
+<strong>輸出數字--整數/浮點數</strong>
 ```python
 print(10)
 ```
-
-<strong>Check data type and Output</strong>
-<br/>
+<strong>顯示數據類型</strong>
 ```python
 print(type("Hello"))
 print(type(1))
 ```
 
-#### How to input data
+#### 如何輸入數據
 
-<strong>Step of get user input</strong>
-1. Create variable e.g. <code>input</code>
-2. Use <code>input</code> to store your input value e.g. <code>input = input("Message")</code>
+<strong>獲取輸入數據步驟</strong>
+1. 先創建一個常數 e.g. <code>input</code>
+2. 利用 <code>input</code> (你所創建的常數)來儲存你輸入的值 e.g. <code>input = input("Message")</code>
 
 ```python
 input = input("Message show on screen")
 ```
 
-#### How to convert input data to integer
-<strong>Way 1 -- eval()</strong>
+#### 如何轉換輸入值為數字類
+<strong>方法 1 -- eval()</strong>
 <br/>
 ```python
 input = eval(input("Integer"))
 ```
-<strong>Way 2 -- int()</strong>
+<strong>方法 2 -- int()</strong>
 <br/>
 ```python
 input = input("Integer")
