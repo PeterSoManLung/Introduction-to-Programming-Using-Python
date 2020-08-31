@@ -11,8 +11,8 @@
   4. CH1.9 (要用到 ***運算***)
 
 * 練 for loop (for 迴圈)
-  1. CH1.3 (要用到 ***Output***, 有機用到 ****if.. if else.. else..**)
-  2. CH1.4 (要用到 ***Output***, 有機用到 ****if.. if else.. else..**)
+  1. CH1.3 (要用到 ***Output***, 有機用到 ***if..else..***)
+  2. CH1.4 (要用到 ***Output***, 有機用到 ***if..else..***)
 
 * 練運算
   1. CH1.5 (要用到 ***Output***)
