@@ -6,7 +6,6 @@
     - [如何轉換輸入值為數字類](#如何轉換輸入值為數字類)
     - [判斷句子](#判斷句子)
     - [迴圈](#迴圈)
-    
 - [Practice Question](#Practice question from Introduction to Programming Using Python)
     - [CH1 練習題](#CH1 Question File)
 <!-- /TOC -->
