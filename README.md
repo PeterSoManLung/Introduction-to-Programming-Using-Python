@@ -13,18 +13,24 @@
 
 <strong>Output string</strong>
 <br/>
-<code>print("Hello World")</code>
+```python
+print("Hello World")
+```
 <br/>
 
 <strong>Output Integer, Float</strong>
 <br/>
-<code>print(10)</code>
+```python
+print(10)
+```
 <br/>
 
 <strong>Check data type and Output</strong>
 <br/>
-<code>print(type("Hello"))</code>
-<code>print(type(1))</code>
+```python
+print(type("Hello"))
+print(type(1))
+```
 
 # How to input data
 
@@ -36,15 +42,15 @@
 
 <strong>Way 1 -- eval()</strong>
 <br/>
+```python
+input = eval(input("Integer"))
 ```
-  input = eval(input("Integer"))
-```
+---
 <br/>
 <strong>Way 2 -- int()</strong>
-<br />
-```
-  input = input("Integer")  
-  convert_int = int(input)
+```python
+input = input("Integer")
+convert_int = int(input)
 ```
 
 ## Practice question from Introduction to Programming Using Python
