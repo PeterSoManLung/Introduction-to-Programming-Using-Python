@@ -42,10 +42,11 @@ print(type(1))
 ```python
 input = eval(input("Integer"))
 ```
-<strong>Way 1 -- eval()</strong>
+<strong>Way 2 -- int()</strong>
 <br/>
 ```python
-input = eval(input("Integer"))
+input = input("Integer")
+convert_int = int(input)
 ```
 <br/>
 
