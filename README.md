@@ -1,3 +1,24 @@
+## Review
+# Bulid in Data Type (Python)
+1. Text Type (str) <code>e.g. "Hello", 'a'</code>
+2. Numeric Type (int, float, complex) <code>e.g. 1, 1.2, 0.008</code>
+3. Boolean Type (bool) <code>True, False</code>
+# Still not discuss 
+4. Sequence Type 
+5. Mapping
+6. Set 
+7. Binary 
+
+# How to output data on screen
+
+<strong>Output string</strong>
+<br/>
+<code>print("Hello World")</code>
+
+<strong>Output Integer, Float</strong>
+<br/>
+<code>print(10)</code>
+
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
 &#x1F534; Ching唔好睇答案做完run到program無error先睇
