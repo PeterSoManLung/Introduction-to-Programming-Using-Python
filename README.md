@@ -52,9 +52,25 @@ input = eval(input("Integer"))
 input = input("Integer")
 convert_int = int(input)
 ```
-<br/>
 
+#### if..else
+```python
+if 條件:
+  # 做仼何東西，當符合if的條件時
+else:
+  # 做仼何東西，當不符合if的條件時
+```
 
+#### if..elif..else
+```python
+if 條件1:
+  # 做仼何東西，當符合條件1時
+elif 條件2:
+  # 做仼何東西，當符合條件2時
+else:
+  # 做仼何東西，當不符合條件1,2時
+```
+> <code>elif</code> 可以使用多次 e.g. <code>if..elif..elif..elif..else</code>
 
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
