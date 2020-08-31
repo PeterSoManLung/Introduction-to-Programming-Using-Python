@@ -65,11 +65,9 @@ convert_int = int(input)
 <strong>if..else</strong>
 ```python
 if 條件1:
-  # 做仼何東西，當符合條件1時
-elif 條件2:
-  # 做仼何東西，當符合條件2時
+  # 做仼何東西，當符合條件時
 else:
-  # 做仼何東西，當不符合條件1,2時
+  # 做仼何東西，當不符合條件時
 ```
 
 <strong>if..elif..else</strong>
