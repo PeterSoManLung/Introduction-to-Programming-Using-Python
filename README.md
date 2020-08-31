@@ -75,6 +75,26 @@ else:
 for i in range(次數):
   # 每次loop中要做的東西
 ```
+<strong>while loop</strong>
+```python
+while 條件:
+  # 每次loop中會做的東西
+```
+<strong>for loop VS while loop</strong>
+for loop | while loop
+--- | ---
+跟據你所定的範圍而做 | 不斷做直至符合你所定的條件
+
+> 正常programming中除for loop, while loop外, 仲有do..while loop
+> Python並無do..while loop概念, 但仍可透過while loop實現 <br/>
+> **例子**
+> ```python
+> i = 1
+> while true:
+>    i++
+>    if i == 5:
+>        break
+> ```
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
 &#x1F534; Ching唔好睇答案做完run到program無error先睇
