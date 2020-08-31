@@ -36,12 +36,12 @@
 
 <strong>Way 1 -- eval()</strong>
 <br/>
-```
+```diff
   input = eval(input("Integer"))
 ```
 <br/>
 <strong>Way 2 -- int()</strong>
-```
+```diff
   input = input("Integer")  
   convert_int = int(input)
 ```
