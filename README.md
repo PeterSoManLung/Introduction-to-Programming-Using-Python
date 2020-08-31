@@ -36,6 +36,10 @@ print(type(1))
 1. Create variable e.g. <code>input</code>
 2. Use <code>input</code> to store your input value e.g. <code>input = input("Message")</code>
 
+```python
+input = input("Message show on screen")
+```
+
 #### How to convert input data to integer
 <strong>Way 1 -- eval()</strong>
 <br/>
