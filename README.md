@@ -1,3 +1,6 @@
+-[Review](#Review)
+    -[內置數據類型](#內置數據類型)
+
 ## Review
 ### 內置數據類型 (Python)
 1. Text Type (str) <code>e.g. "Hello", 'a'</code>
