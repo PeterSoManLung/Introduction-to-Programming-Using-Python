@@ -24,7 +24,6 @@
 <strong>Check data type and Output</strong>
 <br/>
 <code>print(type("Hello"))</code>
-<br/>
 <code>print(type(1))</code>
 
 # How to input data
@@ -36,15 +35,13 @@
 # How to convert input data to integer
 
 <strong>Way 1 -- eval()</strong>
+```input = eval(input("Integer"))```
 <br/>
-<code>input = eval(input("Integer"))</code>
-<br/>
-
 <strong>Way 2 -- int()</strong>
-<br/>
-<code>input = input("Integer")</code>
-<br/>
-<code>convert_int = int(input)</code>
+```
+  input = input("Integer")  
+  convert_int = int(input)
+```
 
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
