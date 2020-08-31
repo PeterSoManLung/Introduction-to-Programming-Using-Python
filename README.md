@@ -36,7 +36,9 @@
 
 <strong>Way 1 -- eval()</strong>
 <br/>
-```input = eval(input("Integer"))```
+```
+  input = eval(input("Integer"))
+```
 <br/>
 <strong>Way 2 -- int()</strong>
 <br />
