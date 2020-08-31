@@ -37,18 +37,19 @@ print(type(1))
 2. Use <code>input</code> to store your input value e.g. <code>input = input("Message")</code>
 
 # How to convert input data to integer
-
+<strong>Way 1 -- eval()</strong>
+<br/>
+```python
+input = eval(input("Integer"))
+```
 <strong>Way 1 -- eval()</strong>
 <br/>
 ```python
 input = eval(input("Integer"))
 ```
 <br/>
-<strong>Way 2 -- int()</strong>
-<br/>
-```python
-input = eval(input("Integer"))
-```
+
+
 
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
