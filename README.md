@@ -14,10 +14,37 @@
 <strong>Output string</strong>
 <br/>
 <code>print("Hello World")</code>
+<br/>
 
 <strong>Output Integer, Float</strong>
 <br/>
 <code>print(10)</code>
+<br/>
+
+<strong>Check data type and Output</strong>
+<br/>
+<code>print(type("Hello"))</code>
+<br/>
+<code>print(type(1))</code>
+
+# How to input data
+
+<strong>Step of get user input</strong>
+1. Create variable e.g. <code>input</code>
+2. Use <code>input</code> to store your input value e.g. <code>input = input("Message")</code>
+
+# How to convert input data to integer
+
+<strong>Way 1 -- eval()</strong>
+<br/>
+<code>input = eval(input("Integer"))</code>
+<br/>
+
+<strong>Way 2 -- int()</strong>
+<br/>
+<code>input = input("Integer")</code>
+<br/>
+<code>convert_int = int(input)</code>
 
 ## Practice question from Introduction to Programming Using Python
 標題係主要練嘅嘢**但**有啲題目有機練幾樣嘢<br/>
