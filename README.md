@@ -56,9 +56,9 @@ convert_int = int(input)
 #### if..else
 ```python
 if 條件:
-  # 做仼何東西，當符合if的條件時
+  # 做仼何東西，當符合條件時
 else:
-  # 做仼何東西，當不符合if的條件時
+  # 做仼何東西，當不符合條件時
 ```
 
 #### if..elif..else
