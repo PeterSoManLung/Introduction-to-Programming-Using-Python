@@ -35,7 +35,10 @@
 # How to convert input data to integer
 
 <strong>Way 1 -- eval()</strong>
-```input = eval(input("Integer"))```
+<br/>
+```
+  input = eval(input("Integer"))
+```
 <br/>
 <strong>Way 2 -- int()</strong>
 ```
