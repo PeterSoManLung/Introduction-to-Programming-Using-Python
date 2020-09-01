@@ -1,3 +1,4 @@
+# Coding By Peter So
 # Wind Chill Effect
 
 fahrenheit = eval(input("Enter the temperature in Fahrenheit between -58 and 41: "))

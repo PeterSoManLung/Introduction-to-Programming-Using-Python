@@ -1,3 +1,4 @@
+# Coding By Peter So
 def printF(time):
     for x in range(time):
         print("F", end='')

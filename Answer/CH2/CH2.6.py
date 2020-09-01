@@ -1,3 +1,4 @@
+# Coding By Peter So
 # 將一個整數的每一個位加總
 
 number = eval(input("Enter the number between 0 and 1000: "))

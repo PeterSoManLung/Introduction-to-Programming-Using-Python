@@ -1,3 +1,4 @@
+# Coding By Peter So
 # 利用分鐘找年數
 
 input_min = eval(input("Enter the munber of minutes: "))

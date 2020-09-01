@@ -1,3 +1,4 @@
+# Coding By Peter So
 def calRectangleArea(width, height):
     print("area =",(width*height))
 

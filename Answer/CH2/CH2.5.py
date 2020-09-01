@@ -1,3 +1,4 @@
+# Coding By Peter So
 # 計貼士
 
 subtotal, gratuity_rate = eval(input("Eneter the subtotal and a gratuity rate: "))
